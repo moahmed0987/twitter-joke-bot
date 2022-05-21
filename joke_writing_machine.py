@@ -19,3 +19,6 @@ def get_joke():
     response = openai.Completion.create(engine="text-davinci-001", prompt=prompt, max_tokens=100)
     response_text = response["choices"][0]["text"]
     return response_text
+
+if __name__ == "__main__":
+    print(get_joke())
