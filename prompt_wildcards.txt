@@ -1,26 +1,37 @@
 .NET
+Android
+Apps
 Arch Linux
 Artificial Intelligence
 ASCII
 Assembly Language
+Bill Gates
+Bitcoin
 Bootstrap
 C
 C#
 C++
 CGI
+Crypto
+Cryptocurrency
 CSS
+Debugging
 Elixir
 Erlang
+Ethereum
+Flutter
 FORTRAN
 Git
 GitHub
 Go
 Haskell
 HTML
+iOS
 Java
 JavaScript
 JSON
 LaTeX
+Linus Torvalds
 Linux
 Machine Learning
 Microsoft
@@ -31,17 +42,21 @@ OAuth
 Pascal
 PHP
 PostgreSQL
+Programmer
 Python
 Raspberry Pi
 robots.txt
 Ruby
 Ruby on Rails
+Software Engineer
 Sorting Algorithms
 SQL
 SQLite
 SSH
+Steve Jobs
 Swift
 TeX
+Tim Cook
 TypeScript
 Ubuntu
 URL
