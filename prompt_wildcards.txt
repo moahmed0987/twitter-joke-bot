@@ -1,4 +1,3 @@
-
 .NET
 Arch Linux
 Artificial Intelligence
@@ -34,7 +33,8 @@ PHP
 PostgreSQL
 Python
 Raspberry Pi
-robots.txtRuby
+robots.txt
+Ruby
 Ruby on Rails
 Sorting Algorithms
 SQL
