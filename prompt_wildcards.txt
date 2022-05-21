@@ -1,8 +1,48 @@
-C++
+
+.NET
+Arch Linux
+Artificial Intelligence
+ASCII
+Assembly Language
+Bootstrap
+C
 C#
-Python
+C++
+CGI
+CSS
+Elixir
+Erlang
+FORTRAN
+Git
+GitHub
+Go
+Haskell
+HTML
 Java
 JavaScript
+JSON
+LaTeX
+Linux
+Machine Learning
+Microsoft
+Microsoft Windows
+MySQL
+NodeJS
+OAuth
+Pascal
+PHP
+PostgreSQL
+Python
+Raspberry Pi
+robots.txtRuby
+Ruby on Rails
+Sorting Algorithms
+SQL
+SQLite
+SSH
+Swift
+TeX
 TypeScript
-HTML
-CSS
+Ubuntu
+URL
+Visual Basic
