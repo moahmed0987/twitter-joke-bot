@@ -1,5 +1,6 @@
 # twitter-joke-bot
 
+**Twitter's recent [API changes](https://www.forbes.com/sites/jenaebarnes/2023/02/03/twitter-ends-its-free-api-heres-who-will-be-affected/), including the end of free access, impacts the functionality of this project.**
 
 A simple Python project that automates the process of tweeting jokes to a Twitter account utilising the Twitter and OpenAI APIs. Created in an afternoon 😄
 
